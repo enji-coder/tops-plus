@@ -1,0 +1,42 @@
+ git : git is a version control 
+	free and open source version control
+	tool 
+	
+	visit official website of git 
+	|
+	V 
+	download for windows 
+---------------------------------------	
+        version 1 :
+		login page created 
+		changes in login page 
+
+	save 
+
+	version 2 : 
+		error solve in login page 
+	save 
+
+	version 3 :
+		forgot password 
+	save 
+	
+----------------------------------
+	github :: github is a cloud platform which can 
+	store your repository and we can handle our 
+	repository using of git. 
+
+	step 1 : create new repo 
+	step 2 : add name 
+	step 3 : click on publish repository 
+	step 4 : change private to public 
+
+	------------------------------
+	for private to public or public to private 
+	------------------------------
+	step 1 : open your repository 
+	step 2 : click on setting tab 
+	step 3 : click on change visibility 
+	step 3 : click on change to private or change to public 
+	step 4 : click on "I want to make this repository ...."
+		
