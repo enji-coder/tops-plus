@@ -39,4 +39,9 @@
 	step 3 : click on change visibility 
 	step 3 : click on change to private or change to public 
 	step 4 : click on "I want to make this repository ...."
-		
+-------------------------------------------------
+	add file in existing repo 
+	-> visit github desktop "add summary"
+	-> click on commit button 
+	-> click on push button 
+
